@@ -1,10 +1,16 @@
 {
   "name": "Air Investment Token",
   "symbol": "AIRI",
-  "description": "$AIRI is the native utility token powering the Air Investment ecosystem on Solana. Designed for the modern investor, it enables seamless program integrations, automated vault distribution, and secure on-chain asset management. Invest in the future of decentralized finance.",
-  "image": "https://raw.githubusercontent.com/Airinvestor/airi-token-asset/main/coin.png",
-  "extensions": {
-    "website": "https://yourwebsite.com",
-    "github": "https://github.com/Airinvestor/airi-token-asset"
+  "description": "The native token of the Air Investment network.",
+  "image": "https://raw.githubusercontent.com/Airinvestor/airi-token-asset/main/logo.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Airinvestor/airi-token-asset/main/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
   }
 }
